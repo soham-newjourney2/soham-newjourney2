@@ -4,6 +4,10 @@
   <img src="./assets/soham_coding_animation.gif" width="500">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soham-newjourney2&label=Profile%20Visitors&color=0e75b6&style=flat" />
+</p>
+
 ### B.Tech CSE @ IEM '29
 
 💻 MERN Stack Developer • 🤖 AI/ML • 🔬 AI Research • 🧩 DSA
@@ -65,14 +69,6 @@ KNN implemented from scratch and compared with Scikit-Learn on a heart disease d
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soham-newjourney2&theme=github-dark&hide_border=true" height="170"/>
-</p>
-
----
-
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soham-newjourney2&label=Profile%20Visitors&color=0e75b6&style=flat" />
 </p>
 
 ---
