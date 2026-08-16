@@ -14,9 +14,16 @@
 
 ## 🖤 About Me
 
-🎓 **B.Tech CSE @ IEM '29**
+### B.Tech CSE @ IEM '29
 
-Building full-stack applications, experimenting with ML, and exploring AI research.
+💻 MERN Stack Developer  
+🤖 AI/ML Explorer  
+🔬 AI Research Enthusiast  
+🧩 DSA & Problem Solving
+
+I'm a Computer Science student who enjoys exploring different sides of software engineering.
+I build full-stack applications with the **MERN stack**, experiment with **Machine Learning**, and explore how AI can be applied to real-world problems.
+I'm especially interested in understanding things beyond the abstraction — which is why I've been implementing ML algorithms from scratch and comparing them with standard libraries.
 
 🏆 Hack2Heal Hackathon — 3rd Place
 
