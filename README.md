@@ -1,5 +1,9 @@
 # 👋 Hey, I'm Soham Chowdhury
 
+<p align="center">
+  <img src="./assets/soham_coding_animation.gif" width="500">
+</p>
+
 ### B.Tech CSE @ IEM '29
 
 💻 MERN Stack Developer • 🤖 AI/ML • 🔬 AI Research • 🧩 DSA
