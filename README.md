@@ -96,18 +96,3 @@ KNN implemented from scratch and compared with Scikit-Learn on a heart disease d
 </p>
 
 ---
-
-## 🧠 Currently Learning
-
-```text
-MERN Stack
-     ↓
-AI / Machine Learning
-     ↓
-Deep Learning
-     ↓
-Generative AI
-     ↓
-RAG & AI Systems
-     ↓
-AI Research
