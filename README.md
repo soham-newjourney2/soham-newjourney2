@@ -73,7 +73,7 @@ KNN implemented from scratch and compared with Scikit-Learn on a heart disease d
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soham-newjourney2&theme=github-dark&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=soham-newjourney2&theme=github-dark&hide_border=true" height="170"/>
 </p>
 
 ---
