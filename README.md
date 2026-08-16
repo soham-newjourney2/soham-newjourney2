@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/soham_coding_animation.gif" width="300">
+  <img src="./assets/soham_coding_animation.gif" width="400">
 </p>
 
 <p align="center">
