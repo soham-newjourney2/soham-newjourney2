@@ -48,7 +48,7 @@ Currently exploring:
 ### 🤖 AI / ML & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,numpy,pandas" />
 </p>
 
 ### 🔧 Tools & Platforms
