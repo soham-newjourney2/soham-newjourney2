@@ -2,34 +2,19 @@
 
 ### B.Tech CSE @ IEM '29
 
-💻 MERN Stack Developer  
-🤖 AI/ML Explorer  
-🔬 AI Research Enthusiast  
-🧩 DSA & Problem Solving
+💻 MERN Stack Developer • 🤖 AI/ML • 🔬 AI Research • 🧩 DSA
 
 > I like building things. But more importantly, I like understanding why they work. 🧠
 
 ---
 
-## 🖤 A little about me
+## 🖤 About Me
 
-I'm a Computer Science student who enjoys exploring different sides of software engineering.
-
-I build full-stack applications with the **MERN stack**, experiment with **Machine Learning**, and explore how AI can be applied to real-world problems.
-
-I'm especially interested in understanding things beyond the abstraction — which is why I've been implementing ML algorithms from scratch and comparing them with standard libraries.
-
-Currently exploring:
-
-- 💻 Full-Stack Development
-- 🤖 Machine Learning & AI
-- 🔬 AI Research
-- 🧩 Data Structures & Algorithms
-- 🚀 Building practical projects
+Building full-stack applications, experimenting with ML, and exploring AI research.
 
 🏆 Hack2Heal Hackathon Winner
 
----
+**Currently exploring:** MERN • AI/ML • DSA • AI Research
 
 ## 🛠️ Languages & Tools
 
@@ -56,26 +41,6 @@ Currently exploring:
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
-
----
-
-## 🚀 What I'm Building
-
-### 🛒 SmartCartClusteringSystem
-An ongoing Machine Learning project focused on customer clustering and segmentation.
-
-### 💻 Real-Time Interview Platform
-An ongoing MERN-based platform exploring real-time collaboration and developer-focused workflows.
-
-### 🧠 ML From Scratch
-
-Implemented and benchmarked:
-
-- Linear Regression
-- Logistic Regression
-- K-Nearest Neighbors
-
-Built using NumPy and compared against Scikit-Learn implementations.
 
 ---
 
