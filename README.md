@@ -99,7 +99,6 @@ Built using NumPy and compared against Scikit-Learn implementations.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soham-newjourney2&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soham-newjourney2&theme=github-dark&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -129,7 +128,7 @@ Built using NumPy and compared against Scikit-Learn implementations.
 </a>
 
 <a href="https://github.com/soham-newjourney">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github2" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
 </a>
 
 </p>
