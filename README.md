@@ -1,28 +1,26 @@
-# 👋 Hey, I'm Soham Chowdhury
+<h1 align="center">Soham Chowdhury</h1>
 
 <p align="center">
-  <img src="./assets/soham_coding_animation.gif" width="500">
+  <strong>I like building things. But more importantly, I like understanding why they work. 🧠</strong>
+</p>
+
+<p align="center">
+  <img src="./assets/soham_coding_animation.gif" width="400">
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soham-newjourney2&label=Profile%20Visitors&color=0e75b6&style=flat" />
 </p>
 
-### B.Tech CSE @ IEM '29
-
-💻 MERN Stack Developer • 🤖 AI/ML • 🔬 AI Research • 🧩 DSA
-
-> I like building things. But more importantly, I like understanding why they work. 🧠
-
----
-
 ## 🖤 About Me
+
+🎓 **B.Tech CSE @ IEM '29**
 
 Building full-stack applications, experimenting with ML, and exploring AI research.
 
-🏆 Hack2Heal Hackathon Winner
+🏆 Hack2Heal Hackathon — 3rd Place
 
-**Currently exploring:** MERN • AI/ML • DSA • AI Research
+**Build • Learn • Break • Improve** 🚀
 
 ## 🛠️ Languages & Tools
 
@@ -81,7 +79,7 @@ KNN implemented from scratch and compared with Scikit-Learn on a heart disease d
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://leetcode.com/u/0eL09kaqgB//">
+<a href="https://leetcode.com/u/0eL09kaqgB/">
   <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
 </a>
 
@@ -89,8 +87,8 @@ KNN implemented from scratch and compared with Scikit-Learn on a heart disease d
   <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://github.com/soham-newjourney">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+<a href="soham.chowdhury.277@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail" />
 </a>
 
 </p>
