@@ -46,17 +46,14 @@ Building full-stack applications, experimenting with ML, and exploring AI resear
 
 ## 📌 Featured Work
 
-<a href="https://github.com/soham-newjourney2/linear-regression-scratch-vs-sklearn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soham-newjourney2&repo=linear-regression-scratch-vs-sklearn&theme=github_dark" />
-</a>
+### 🧠 [Linear Regression — Scratch vs Scikit-Learn](https://github.com/soham-newjourney2/linear-regression-scratch-vs-sklearn)
+Implementation of Linear Regression from scratch using NumPy, benchmarked against Scikit-Learn.
 
-<a href="https://github.com/soham-newjourney2/heart-disease-knn-scratch-vs-sklearn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soham-newjourney2&repo=heart-disease-knn-scratch-vs-sklearn&theme=github_dark" />
-</a>
+### 🤖 [Logistic Regression — Scratch vs Scikit-Learn](https://github.com/soham-newjourney2/logistic-regression-scratch-vs-sklearn)
+Custom Logistic Regression implementation with vectorized gradient descent and performance comparison.
 
-<a href="https://github.com/soham-newjourney2/logistic-regression-scratch-vs-sklearn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soham-newjourney2&repo=logistic-regression-scratch-vs-sklearn&theme=github_dark" />
-</a>
+### ❤️ [Heart Disease KNN — Scratch vs Scikit-Learn](https://github.com/soham-newjourney2/heart-disease-knn-scratch-vs-sklearn)
+KNN implemented from scratch and compared with Scikit-Learn on a heart disease dataset.
 
 ---
 
