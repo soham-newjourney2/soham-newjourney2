@@ -196,8 +196,36 @@ result  : 96% accuracy, zero
 <br/>
 
 <div align="center">
+  
+`[ 03 // MINI-GAME ]`
+<br/>
+<sub>my contribution graph, playing itself</sub>
+ 
+<br/><br/>
+ 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/soham-newjourney2/soham-newjourney2/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/soham-newjourney2/soham-newjourney2/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="snake game eating my contribution graph"
+    src="https://raw.githubusercontent.com/soham-newjourney2/soham-newjourney2/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
+ 
+</div>
 
-`[ 03 // METRICS ]`
+<br/>
+
+<div align="center">
+
+`[ 04 // METRICS ]`
 
 </div>
 <br/>
@@ -212,7 +240,7 @@ result  : 96% accuracy, zero
 
 <div align="center">
 
-`[ 04 // CONNECT ]`
+`[ 05 // CONNECT ]`
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-chowdhury-2k25/)
