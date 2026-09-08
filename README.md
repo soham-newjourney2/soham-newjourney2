@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/soham-newjourney2">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=SOHAM%20CHOWDHURY&width=900&height=300" width="100%"/>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=SOHAM%20CHOWDHURY&width=900&height=150" width="100%"/>
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=CCCCCC&background=00000000&center=true&vCenter=true&width=700&lines=%3E+building+things...;%3E+then+rebuilding+them+from+scratch;%3E+MERN+Dev+_+AI-ML+Explorer+_+DSA;%3E+status%3A+still+debugging+life" />
