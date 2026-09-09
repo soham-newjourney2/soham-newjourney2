@@ -240,7 +240,29 @@ result  : 96% accuracy, zero
 
 <div align="center">
 
-`[ 05 // CONNECT ]`
+<div align="center">
+`[ 05 // COLLAB PROFILE ]`
+ 
+</div>
+<br/>
+<div align="center">
+<table width="70%">
+<tr>
+<td align="center">
+**● ● ●&nbsp;&nbsp;`~/soham/collab.sh`**
+ 
+```
+> for team projects & hackathons
+see my other profile →
+```
+[→ Soham-newjourney](https://github.com/Soham-newjourney)
+ 
+</td>
+</tr>
+</table>
+</div>
+
+`[ 06 // CONNECT ]`
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-chowdhury-2k25/)
