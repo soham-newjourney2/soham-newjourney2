@@ -196,8 +196,45 @@ result  : 96% accuracy, zero
 <br/>
 
 <div align="center">
+
+`[ 03 // TEAM BUILDS ]`
+<br/>
+<sub>things we shipped together: more hands, more bugs, better software</sub>
+
+</div>
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**● ● ●&nbsp;&nbsp;`team_001.log`**
+
+```
+project : DataOrigin
+pitch   : provenance + reproducibility
+          for research datasets & ML
+my role : Team Lead · Backend & AI
+stack   : FastAPI · scikit-learn ·
+          Solidity · vanilla JS
+crew    : 4 devs
+note    : turned "who changed the
+          dataset?" into a SHA-256
+          receipt on a blockchain.
+```
+[→ view repo](https://github.com/soham-newjourney2/DataOrigin)
+<br/>
+<sub>with [@Saswata427](https://github.com/Saswata427) · [@srijoyeemisra](https://github.com/srijoyeemisra) · [@blacksayan6](https://github.com/blacksayan6)</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
   
-`[ 03 // MINI-GAME ]`
+`[ 04 // MINI-GAME ]`
 <br/>
 <sub>my contribution graph, playing itself</sub>
  
@@ -225,7 +262,7 @@ result  : 96% accuracy, zero
 
 <div align="center">
 
-`[ 04 // METRICS ]`
+`[ 05 // METRICS ]`
 
 </div>
 <br/>
@@ -240,9 +277,7 @@ result  : 96% accuracy, zero
 
 <div align="center">
 
-<div align="center">
-
-`[ 05 // CONNECT ]`
+`[ 06 // CONNECT ]`
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-chowdhury-2k25/)
