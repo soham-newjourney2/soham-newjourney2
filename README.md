@@ -49,7 +49,7 @@ Kolkata, West Bengal, India
 role      : MERN Stack Dev
 focus     : AI / ML Explorer
 grinding  : DSA daily
-award     : Hack2Heal — 3rd place
+award     : Healix 1st · Hack2Heal 3rd
 mode      : build > break > improve
 uptime    : still enjoying the journey
 ```
@@ -197,7 +197,68 @@ result  : 96% accuracy, zero
 
 <div align="center">
 
-`[ 03 // TEAM BUILDS ]`
+`[ 03 // TROPHY CASE ]`
+<br/>
+<sub>projects that came home with something</sub>
+
+</div>
+<br/>
+
+<details open>
+<summary><b>▸ team wins</b></summary>
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**● ● ●&nbsp;&nbsp;`win_001.log`**
+
+```
+project : RE:VIVE
+result  : 🏆 1st place, Healix
+event   : HEALS'26 · IEM
+pitch   : one shared recovery record
+          for patients, doctors
+          and guardians
+my role : Team Lead · Backend & AI
+stack   : FastAPI · MongoDB ·
+          XGBoost + SHAP · vanilla JS
+crew    : 4 devs
+note    : turned "she'll mention it
+          at the next visit" into an
+          alert the same night.
+```
+[→ view repo](https://github.com/soham-newjourney2/Re-Vive)
+<br/>
+<sub>with [@Saswata427](https://github.com/Saswata427) · [@srijoyeemisra](https://github.com/srijoyeemisra) · [@blacksayan6](https://github.com/blacksayan6)</sub>
+
+</td>
+
+</tr>
+</table>
+
+<!-- </details>
+
+<details>
+<summary><b>▸ solo wins</b></summary>
+<br/>
+
+**● ● ●&nbsp;&nbsp;`solo_001.log`**
+
+```
+status  : nothing logged yet
+plan    : working on it
+```
+
+</details> -->
+
+<br/>
+
+
+<div align="center">
+
+`[ 04 // TEAM BUILDS ]`
 <br/>
 <sub>things we shipped together: more hands, more bugs, better software</sub>
 
@@ -257,7 +318,7 @@ note    : turned "who do I call?"
 
 <div align="center">
   
-`[ 04 // MINI-GAME ]`
+`[ 05 // MINI-GAME ]`
 <br/>
 <sub>my contribution graph, playing itself</sub>
  
@@ -285,7 +346,7 @@ note    : turned "who do I call?"
 
 <div align="center">
 
-`[ 05 // METRICS ]`
+`[ 06 // METRICS ]`
 
 </div>
 <br/>
@@ -300,7 +361,7 @@ note    : turned "who do I call?"
 
 <div align="center">
 
-`[ 06 // CONNECT ]`
+`[ 07 // CONNECT ]`
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-chowdhury-2k25/)
