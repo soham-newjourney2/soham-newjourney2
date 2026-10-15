@@ -227,6 +227,29 @@ note    : turned "who changed the
 <sub>with [@Saswata427](https://github.com/Saswata427) · [@srijoyeemisra](https://github.com/srijoyeemisra) · [@blacksayan6](https://github.com/blacksayan6)</sub>
 
 </td>
+
+<td width="50%" valign="top">
+
+**● ● ●&nbsp;&nbsp;`team_002.log`**
+
+```
+project : JeevCare
+pitch   : animal rescue, from one
+          photo to the nearest NGO
+my role : Backend
+stack   : Express · MongoDB ·
+          Socket.IO · vanilla JS
+crew    : 2 devs
+note    : turned "who do I call?"
+          into a geo-routed case
+          with live updates.
+```
+[→ view repo](https://github.com/soham-newjourney2/JeevCare)
+<br/>
+<sub>with [@srijoyeemisra](https://github.com/srijoyeemisra)</sub>
+
+</td>
+
 </tr>
 </table>
 
