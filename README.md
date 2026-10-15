@@ -234,12 +234,12 @@ note    : turned "she'll mention it
 <sub>with [@Saswata427](https://github.com/Saswata427) · [@srijoyeemisra](https://github.com/srijoyeemisra) · [@blacksayan6](https://github.com/blacksayan6)</sub>
 
 </td>
-
 </tr>
 </table>
 
-<!-- </details>
+</details>
 
+<!--
 <details>
 <summary><b>▸ solo wins</b></summary>
 <br/>
@@ -251,9 +251,11 @@ status  : nothing logged yet
 plan    : working on it
 ```
 
-</details> -->
+</details>
+-->
 
 <br/>
+
 
 
 <div align="center">
