@@ -234,6 +234,34 @@ note    : turned "she'll mention it
 <sub>with [@Saswata427](https://github.com/Saswata427) · [@srijoyeemisra](https://github.com/srijoyeemisra) · [@blacksayan6](https://github.com/blacksayan6)</sub>
 
 </td>
+
+</td>
+
+<td width="50%" valign="top">
+
+**● ● ●&nbsp;&nbsp;`win_002.log`**
+
+```
+project : HelpSphere
+result  : 🏆 3rd place, Innovare
+event   : Innovatia'26 · IEM
+pitch   : surplus food and essentials,
+          routed to people in need
+          through verified NGOs
+my role : Team Lead · Frontend
+stack   : PHP · MySQL · SMTP ·
+          vanilla JS
+crew    : 4 devs
+note    : turned "40 plates left
+          after the event" into an
+          alert for the 5 nearest NGOs.
+```
+[→ view repo](https://github.com/soham-newjourney2/HelpSphere)
+<br/>
+<sub>with [@Arkoprabho-Roy](https://github.com/Arkoprabho-Roy) · [@srijoyeemisra](https://github.com/srijoyeemisra) · [@blacksayan6](https://github.com/blacksayan6)</sub>
+
+</td>
+
 </tr>
 </table>
 
