@@ -341,6 +341,29 @@ note    : turned "who do I call?"
 
 </td>
 
+<td width="50%" valign="top">
+
+**● ● ●&nbsp;&nbsp;`team_003.log`**
+
+```
+project : DepGuard AI
+pitch   : dependency security that
+          shows which CVEs matter
+my role : Team Lead · AI & Backend
+stack   : FastAPI · OSV · KEV/EPSS ·
+          vanilla JS · Playwright
+crew    : 3 devs
+note    : turned "47 vulnerabilities"
+          into a ranked list with a
+          path, evidence and a fix.
+```
+[→ view repo](https://github.com/soham-newjourney2/DepGuard-AI)
+<br/>
+<sub>with [@Arkoprabho-Roy](https://github.com/Arkoprabho-Roy) · [@Saswata427](https://github.com/Saswata427)</sub>
+
+</td>
+
+
 </tr>
 </table>
 
