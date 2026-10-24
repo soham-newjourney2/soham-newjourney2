@@ -297,7 +297,7 @@ plan    : working on it
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<!-- <td width="50%" valign="top">
 
 **● ● ●&nbsp;&nbsp;`team_001.log`**
 
@@ -317,7 +317,7 @@ note    : turned "who changed the
 <br/>
 <sub>with [@Saswata427](https://github.com/Saswata427) · [@srijoyeemisra](https://github.com/srijoyeemisra) · [@blacksayan6](https://github.com/blacksayan6)</sub>
 
-</td>
+</td> -->
 
 <td width="50%" valign="top">
 
