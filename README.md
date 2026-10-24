@@ -321,7 +321,7 @@ note    : turned "who changed the
 
 <td width="50%" valign="top">
 
-**● ● ●&nbsp;&nbsp;`team_002.log`**
+**● ● ●&nbsp;&nbsp;`team_001.log`**
 
 ```
 project : JeevCare
@@ -343,7 +343,7 @@ note    : turned "who do I call?"
 
 <td width="50%" valign="top">
 
-**● ● ●&nbsp;&nbsp;`team_003.log`**
+**● ● ●&nbsp;&nbsp;`team_002.log`**
 
 ```
 project : DepGuard AI
