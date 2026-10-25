@@ -297,7 +297,7 @@ plan    : working on it
 
 <table width="100%">
 <tr>
-<!-- <td width="50%" valign="top">
+<td width="50%" valign="top">
 
 **● ● ●&nbsp;&nbsp;`team_001.log`**
 
@@ -313,15 +313,15 @@ note    : turned "who changed the
           dataset?" into a SHA-256
           receipt on a blockchain.
 ```
-[→ view repo](https://github.com/soham-newjourney2/DataOrigin)
+[→ view repo](https://github.com/soham-newjourney2/DataOrigin-Axion-S4Tech)
 <br/>
 <sub>with [@Saswata427](https://github.com/Saswata427) · [@srijoyeemisra](https://github.com/srijoyeemisra) · [@blacksayan6](https://github.com/blacksayan6)</sub>
 
-</td> -->
+</td>
 
 <td width="50%" valign="top">
 
-**● ● ●&nbsp;&nbsp;`team_001.log`**
+**● ● ●&nbsp;&nbsp;`team_002.log`**
 
 ```
 project : JeevCare
@@ -343,7 +343,7 @@ note    : turned "who do I call?"
 
 <td width="50%" valign="top">
 
-**● ● ●&nbsp;&nbsp;`team_002.log`**
+**● ● ●&nbsp;&nbsp;`team_003.log`**
 
 ```
 project : DepGuard AI
