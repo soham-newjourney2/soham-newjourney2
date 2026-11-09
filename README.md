@@ -363,6 +363,27 @@ note    : turned "47 vulnerabilities"
 
 </td>
 
+<td width="50%" valign="top">
+
+**● ● ●&nbsp;&nbsp;`team_004.log`**
+
+```
+project : Echo
+pitch   : dcooperative, AI-guided mysteries
+          that turn solving together into connection
+my role : Team Lead · AI & Backend
+stack   : FastAPI · WebSockets · SQLite ·
+          Groq & Gemini APIs · Vanilla JS
+crew    : 4 devs
+note    : made an AI narrator that actually
+          listens, plays nice with failovers,
+          and doesn't leak the murder weapon.
+```
+[→ view repo](https://github.com/soham-newjourney2/Obsidian-affecio-hacks-26)
+<br/>
+<sub>with [@Arkoprabho-Roy](https://github.com/Arkoprabho-Roy) · [@Saswata427](https://github.com/Saswata427) · [@Ayush-Adhikary](https://github.com/Ayush-Adhikary)</sub>
+
+</td>
 
 </tr>
 </table>
