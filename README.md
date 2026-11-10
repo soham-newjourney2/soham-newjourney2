@@ -369,8 +369,8 @@ note    : turned "47 vulnerabilities"
 
 ```
 project : Echo
-pitch   : dcooperative, AI-guided mysteries
-          that turn solving together into connection
+pitch   : AI-guided mysteries that turn
+          solving together into connection
 my role : Team Lead · AI & Backend
 stack   : FastAPI · WebSockets · SQLite ·
           Groq & Gemini APIs · Vanilla JS
